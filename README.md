@@ -57,12 +57,14 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/tsnode/3178C6" title="TSNode" alt="TSNode" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/socketdotio" title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastify.svg" title="Fastify" alt="Fastify" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.simpleicons.org/socketdotio/000/fff" title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.simpleicons.org/fastify/000/fff" title="Fastify" alt="Fastify" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.simpleicons.org/express/000/fff" title="Express" alt="Express" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/prisma/#2D3748" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/minio/#C72E49" title="Minio" alt="Minio" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/googlecloud/#2D3748" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/swagger/#85EA2D" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
