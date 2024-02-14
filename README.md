@@ -46,7 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind " width="40" height="40"/>&nbsp;
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="Tailwind" alt="Tailwind " width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase " width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/vite/#646CFF" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/chartdotjs/#A30701" title="Git" alt="Git" width="40" height="40"/>&nbsp;
