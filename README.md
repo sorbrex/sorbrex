@@ -40,17 +40,17 @@
 
 - <h4 align="left">🖼️ Frontend:</h4>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    [![My FrontEnd Skill](https://skillicons.dev/icons?i=ts,css,html,react,redux,svelte,tailwind,sass,materialui,rollupjs,vite,firebase,figma)](https://skillicons.dev)
+    [![FrontEndSkill](https://skillicons.dev/icons?i=ts,css,html,react,redux,svelte,tailwind,sass,materialui,rollupjs,vite,firebase,figma)](https://skillicons.dev)
     
 - <h4 align="left">⚙️ Backend:</h4>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    [![My BackEnd Skill One](https://skillicons.dev/icons?i=bun,nodejs,express,prisma,mongodb,mysql)](https://skillicons.dev)
+[![BackEndSkillOne](https://skillicons.dev/icons?i=bun,nodejs,express,prisma,mongodb,mysql)](https://skillicons.dev)
     <img src="https://cdn.simpleicons.org/tsnode/3178C6" title="TSNode" alt="TSNode" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/socketdotio/000/fff" title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/fastify/000/fff" title="Fastify" alt="Fastify" width="40" height="40"/>&nbsp;
   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      [![My BackEnd Skill Two](https://skillicons.dev/icons?i=ansible,docker,gcp)](https://skillicons.dev)
+  [![BackEndSkillTwo](https://skillicons.dev/icons?i=ansible,docker,gcp)](https://skillicons.dev)
     <img src="https://cdn.simpleicons.org/apachekafka/000/fff" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/ansible/EE0000" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/docker/2496ED" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -62,13 +62,11 @@
 
 - <h4 align="left">📱 Mobile:</h4>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    [![My Mobile Skill](https://skillicons.dev/icons?i=swift,androidstudio)](https://skillicons.dev)
+    [![MobileSkill](https://skillicons.dev/icons?i=swift,androidstudio)](https://skillicons.dev)
 
 - <h4 align="left">	🔧 Tools:</h4>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    [![My Tools Skill](https://skillicons.dev/icons?i=github,gitlab,webstorm,bash,arch,godot,neovim)](https://skillicons.dev)
-    <img src="https://cdn.simpleicons.org/neovim/#A30701" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    [![ToolSkill](https://skillicons.dev/icons?i=github,gitlab,webstorm,bash,arch,godot,neovim)](https://skillicons.dev)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint " width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/qmk/333333" title="qmk" alt="qmk" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/insomnia/4000BF" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
