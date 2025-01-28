@@ -25,7 +25,7 @@
 ### 🧑‍💻 About Me :
 
   
-- 🔭  I’m currently working as a Backend and iOS Developer and on [Money Keeper](https://github.com/sorbrex/MoneyKeeper) as Side Project  
+- 🔭  I’m currently working as a Lead Frontend Developer
 
 - 👀  Exploring new Languages and new Technologies
 
