@@ -8,7 +8,7 @@
       <a href="https://www.instagram.com/sorbrex.ns/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
-      <a href="https://nandosorbello.altervista.org/">
+      <a href="https://sorbrex-me.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
       </a>
     </div>
