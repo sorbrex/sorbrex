@@ -40,34 +40,17 @@
 
 - <h4 align="left">🖼️ Frontend:</h4>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="Tailwind" alt="Tailwind " width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase " width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/vite/#646CFF" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/chartdotjs/#A30701" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-
-
+    [![My FrontEnd Skill](https://skillicons.dev/icons?i=ts,css,html,react,redux,svelte,tailwind,sass,materialui,rollupjs,vite,firebase,figma)](https://skillicons.dev)
+    
 - <h4 align="left">⚙️ Backend:</h4>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    [![My BackEnd Skill One](https://skillicons.dev/icons?i=bun,nodejs,express,prisma,mongodb,mysql)](https://skillicons.dev)
     <img src="https://cdn.simpleicons.org/tsnode/3178C6" title="TSNode" alt="TSNode" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/socketdotio/000/fff" title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/fastify/000/fff" title="Fastify" alt="Fastify" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/express/000/fff" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/prisma/#2D3748" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/minio/#C72E49" title="Minio" alt="Minio" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/googlecloud/#2D3748" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/swagger/#85EA2D" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+      [![My BackEnd Skill Two](https://skillicons.dev/icons?i=ansible,docker,gcp)](https://skillicons.dev)
     <img src="https://cdn.simpleicons.org/apachekafka/000/fff" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/ansible/EE0000" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/docker/2496ED" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -79,22 +62,14 @@
 
 - <h4 align="left">📱 Mobile:</h4>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" alt="Swift " width="40" height="40"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/android/#34A853" title="Andorid" alt="Andorid" width="40" height="40"/>&nbsp;
-
+    [![My Mobile Skill](https://skillicons.dev/icons?i=swift,androidstudio)](https://skillicons.dev)
 
 - <h4 align="left">	🔧 Tools:</h4>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    [![My Tools Skill](https://skillicons.dev/icons?i=github,gitlab,webstorm,bash,arch,godot,neovim)](https://skillicons.dev)
     <img src="https://cdn.simpleicons.org/neovim/#A30701" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/xcode/#147EFB" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/gnuemacs/#A30701" title="Emacs" alt="Emacs" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/gnubash/#4EAA25" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint " width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/chai/#A30701" title="Chai" alt="Chai" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/mocha/#8D6748" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/git/#F05032" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/qmk/333333" title="qmk" alt="qmk" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/insomnia/4000BF" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/warp/01A4FF" title="warp" alt="warp" width="40" height="40"/>&nbsp;
