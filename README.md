@@ -39,16 +39,13 @@
 <div>
 
 - <h4 align="left">🖼️ Frontend:</h4>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    [![FrontEndSkill](https://skillicons.dev/icons?i=ts,css,html,react,redux,svelte,tailwind,sass,materialui,rollupjs,vite,firebase,figma)](https://skillicons.dev)
+[![FrontEndSkill](https://skillicons.dev/icons?i=ts,css,html,react,redux,svelte,tailwind,sass,materialui,rollupjs,vite,firebase,figma)](https://skillicons.dev)
     
 - <h4 align="left">⚙️ Backend:</h4>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![BackEndSkillOne](https://skillicons.dev/icons?i=bun,nodejs,express,prisma,mongodb,mysql)](https://skillicons.dev)
     <img src="https://cdn.simpleicons.org/tsnode/3178C6" title="TSNode" alt="TSNode" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/socketdotio/000/fff" title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/fastify/000/fff" title="Fastify" alt="Fastify" width="40" height="40"/>&nbsp;
-  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![BackEndSkillTwo](https://skillicons.dev/icons?i=ansible,docker,gcp)](https://skillicons.dev)
     <img src="https://cdn.simpleicons.org/apachekafka/000/fff" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
