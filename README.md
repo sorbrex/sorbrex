@@ -39,7 +39,7 @@
 <div>
 
 - <h4 align="left">🖼️ Frontend:</h4>
-[![FrontEndSkill](https://skillicons.dev/icons?i=ts,css,html,react,redux,svelte,tailwind,sass,materialui,rollupjs,vite,firebase,figma)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;[![FrontEndSkill](https://skillicons.dev/icons?i=ts,css,html,react,redux,svelte,tailwind,sass,materialui,rollupjs,vite,firebase,figma)](https://skillicons.dev)
     
 - <h4 align="left">⚙️ Backend:</h4>
 &nbsp;&nbsp;&nbsp;[![BackEndSkillOne](https://skillicons.dev/icons?i=bun,nodejs,express,prisma,mongodb,mysql)](https://skillicons.dev)
