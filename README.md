@@ -46,6 +46,7 @@
     <img src="https://cdn.simpleicons.org/tsnode/3178C6" title="TSNode" alt="TSNode" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/socketdotio/000/fff" title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/fastify/000/fff" title="Fastify" alt="Fastify" width="40" height="40"/>&nbsp;
+    <br>
 &nbsp;&nbsp;&nbsp;[![BackEndSkillTwo](https://skillicons.dev/icons?i=ansible,docker,gcp)](https://skillicons.dev)
     <img src="https://cdn.simpleicons.org/apachekafka/000/fff" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
     <img src="https://cdn.simpleicons.org/ansible/EE0000" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
