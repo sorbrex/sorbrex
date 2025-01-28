@@ -58,8 +58,7 @@
 
 
 - <h4 align="left">📱 Mobile:</h4>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    [![MobileSkill](https://skillicons.dev/icons?i=swift,androidstudio)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;[![MobileSkill](https://skillicons.dev/icons?i=swift,androidstudio)](https://skillicons.dev)
 
 - <h4 align="left">	🔧 Tools:</h4>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
