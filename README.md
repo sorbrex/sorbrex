@@ -43,18 +43,18 @@
     
 - <h4 align="left">⚙️ Backend:</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![BackEndSkillOne](https://skillicons.dev/icons?i=bun,nodejs,express,prisma,mongodb,mysql)](https://skillicons.dev)
-    <span><img src="https://cdn.simpleicons.org/tsnode/3178C6" title="TSNode" alt="TSNode" width="40" height="40"/></span>&nbsp;
-    <span><img src="https://cdn.simpleicons.org/socketdotio/000/fff" title="SocketIO" alt="SocketIO" width="40" height="40"/></span>&nbsp;
-    <span><img src="https://cdn.simpleicons.org/fastify/000/fff" title="Fastify" alt="Fastify" width="40" height="40"/></span>&nbsp;
+    <span><img src="https://cdn.simpleicons.org/tsnode/3178C6" title="TSNode" alt="TSNode" width="40" height="40"/></span>
+    <span><img src="https://cdn.simpleicons.org/socketdotio/000/fff" title="SocketIO" alt="SocketIO" width="40" height="40"/></span>
+    <span><img src="https://cdn.simpleicons.org/fastify/000/fff" title="Fastify" alt="Fastify" width="40" height="40"/></span>
     <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![BackEndSkillTwo](https://skillicons.dev/icons?i=ansible,docker,gcp)](https://skillicons.dev)
-    <span><img src="https://cdn.simpleicons.org/apachekafka/000/fff" title="Kafka" alt="Kafka" width="40" height="40"/></span>&nbsp;
-    <span><img src="https://cdn.simpleicons.org/ansible/EE0000" title="Ansible" alt="Ansible" width="40" height="40"/></span>&nbsp;
-    <span><img src="https://cdn.simpleicons.org/docker/2496ED" title="Docker" alt="Docker" width="40" height="40"/></span>&nbsp;
-    <span><img src="https://cdn.simpleicons.org/kubernetes/326CE5" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></span>&nbsp;
-    <span><img src="https://cdn.simpleicons.org/drone/000/fff" title="Drone" alt="Drone" width="40" height="40"/></span>&nbsp;
-    <span><img src="https://cdn.simpleicons.org/render/46E3B7" title="Render" alt="Render" width="40" height="40"/></span>&nbsp;
-    <span><img src="https://cdn.simpleicons.org/kibana/005571" title="Kibana" alt="Kibana" width="40" height="40"/></span>&nbsp;
+    <span><img src="https://cdn.simpleicons.org/apachekafka/000/fff" title="Kafka" alt="Kafka" width="40" height="40"/></span>
+    <span><img src="https://cdn.simpleicons.org/ansible/EE0000" title="Ansible" alt="Ansible" width="40" height="40"/></span>
+    <span><img src="https://cdn.simpleicons.org/docker/2496ED" title="Docker" alt="Docker" width="40" height="40"/></span>
+    <span><img src="https://cdn.simpleicons.org/kubernetes/326CE5" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></span>
+    <span><img src="https://cdn.simpleicons.org/drone/000/fff" title="Drone" alt="Drone" width="40" height="40"/></span>
+    <span><img src="https://cdn.simpleicons.org/render/46E3B7" title="Render" alt="Render" width="40" height="40"/></span>
+    <span><img src="https://cdn.simpleicons.org/kibana/005571" title="Kibana" alt="Kibana" width="40" height="40"/></span>
 
 
 - <h4 align="left">📱 Mobile:</h4>
